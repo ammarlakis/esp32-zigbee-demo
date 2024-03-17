@@ -1,0 +1,6 @@
+- ESP32-C6-N8 development board
+- ESP-IDF vscode extension
+- Can't reconnect to the network after reboot, needs to rejoin
+- Setting up custom manufacturer name and model id doesn't work
+- To support in z2m, need to [create an external converter](https://www.zigbee2mqtt.io/advanced/support-new-devices/01_support_new_devices.html)
+- Still need to replace the light control with sensors
